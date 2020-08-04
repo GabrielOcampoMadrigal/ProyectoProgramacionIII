@@ -1,0 +1,107 @@
+* {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.Total {
+    position: relative;
+    top: 150px;
+    left: 220px;
+    height: 720px;
+    width: 1520px;
+    background-color: rgb(117, 117, 223);
+    background-image: url(Hojas.png);
+
+}
+
+.Color-map {
+    position: relative;
+    top: -342px;
+    left: 850px;
+    height: 720px;
+    width: 20px;
+    background-color: cornsilk;
+}
+
+.Back{
+    position: relative;
+    height: 920px;
+    width: 1520px;
+}
+
+.Mapa {
+    position: relative;
+    top: 450px;
+    left: 250px;
+    height: 920px;
+    width: 1520px;
+    border-radius: 20px;
+    background-color: rgb(117, 117, 223);
+}
+.MAPA0{
+    position: relative;
+    top: -870px;
+    height: 780px;
+    width: 900px;
+    left: 600px;
+    border-radius: 20px 20px 20px 20px;
+    border-style: none;
+}
+.Entrada{
+    position: relative;
+    top: -1150px;
+    left: 150px;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+}
+.EnviarD{
+    position: relative;
+    top: -1120px;
+    left: 150px;
+    width: 300px;
+    height: 40px;
+    transition: 1s;
+    border-radius: 20px;
+}
+.EnviarD:hover{
+    background-color: rgb(11, 248, 82);
+}
+
+.Texto {
+    position: relative;
+    top: 270px;
+    width: 430px;
+    left: 170px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 251, 251);
+}
+
+#Texto2 {
+    position: relative;
+    color: white;
+    top: 320px;
+    font-family: cursive;
+    left: 160px;
+}
+
+.nav-item {
+    position: relative;
+    width: 320px;
+    left: 210px;
+    transition: 3s;
+}
+
+.Empresa {
+    position: relative;
+    height: 220px;
+    left: 525px;
+}
+
+.Imagen {
+    position: relative;
+    height: 720px;
+    width: 670px;
+}

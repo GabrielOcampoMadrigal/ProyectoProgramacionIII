@@ -1,0 +1,94 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: #114672;
+    width: 10000px;
+}
+.Container{
+    position: relative;
+    background-color: #0b62a8;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    top: 150px;
+    height: 550px;
+    width: 430px;
+    margin-left: 0%;
+    margin-right: 0%;
+    left: 730px;
+}
+.MiniTitulo{
+    position: relative;
+    top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #7CFC00;
+    margin-left: 15px;
+    font-style: italic;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 12px;
+    width: 20px;
+    font-size: 20px;
+}
+.Title{
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    left: 890px;
+    top: 270px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.Login{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 95px;
+    left: 0px;
+    height: 320px;
+    background-color:#086fc400;
+
+}
+.TextoUsuario{
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    top: 358px;
+    left: 840px;
+    height: 40px;
+    width: 200px;
+    border-style: none;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.ContraseñaUsuario{
+    position: fixed;
+    top: 485px;
+    left: 840px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    border-style: none;
+}
+button{
+    position: fixed;
+    left: 840px;
+    top: 600px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: #7CFC00;
+}
+button a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    line-height: unset;
+    appearance: initial;
+    
+}

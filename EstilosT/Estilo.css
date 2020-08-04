@@ -1,0 +1,212 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html{
+    background-color: white;
+}
+div ul li a {
+    position: relative;
+    z-index: 1;
+    top: 0px;
+    width: 380px;
+    background: rgb(255, 255, 255);
+    font-style: italic;
+    left: -10px;
+    transform: translate(1px);
+    color: #ffff;
+    font-size: 17px;
+    background-color: white;
+    transition: 1s;
+
+
+}
+
+div ul li a:hover {
+    background-color: rgb(1, 255, 242);
+    border-radius: 20px;
+    transition: 1s;
+    height: 58px;
+    width: 180px;
+    color: rgb(255, 255, 255);
+    font-weight: 20px;
+}
+.TituloPagina{
+    position: relative;
+    color: rgb(33, 2, 49);
+    left: -20px;
+    border-radius: 0px 5px 20px 20px;
+    border-color: rgb(255, 255, 255);
+    transform: translateX(25px);
+    transition: 1.5s;
+}
+.TituloPagina:hover{
+    background-color: cornflowerblue;
+    
+}
+
+#Color2 {
+    position: absolute;
+    left: 1800px;
+}
+
+div nav form input {
+    position: absolute;
+    left: 1572px;
+    background: no-repeat;
+}
+.TamañoLogo{
+    position: relative;
+    height: 180px;
+    width: 550px;
+    left: 500px;
+    background-color: white;
+}
+#Imagen1 {
+    background-repeat: no-repeat;
+    background-size: 100% 100px;
+}
+
+.carousel-item-active {
+    position: absolute;
+    top: 220px;
+    left: 420px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    color: transparent;
+    height: 900px;
+    background-repeat: no-repeat;
+    width: 930px;
+}
+
+.carousel-slide {
+    position: relative;
+    top: 120px;
+    background: no-repeat;
+    width: 1200px;
+    left: 300px;
+}
+
+.carousel-inner {
+    position: fixed;
+    height: 980px;
+    width: 20px;
+
+}
+
+.Container {
+    top: 1100px;
+    left: -30px;
+    position: absolute;
+
+}
+
+.Title {
+    position: absolute;
+    left: 800px;
+    top: 300px;
+}
+
+.Divcolor {
+    position: relative;
+    top: 80px;
+    color: whitesmoke;
+    background-color: whitesmoke;
+}
+
+.card {
+    position: absolute;
+    left: 450px;
+    top: 465px;
+
+}
+
+.card2 {
+    position: absolute;
+    left: 740px;
+    top: 465px;
+}
+
+.card3 {
+    position: absolute;
+    left: 1000px;
+    top: 465px;
+    height: 920px;
+    width: 450px;
+}
+
+.colorlinea {
+    color: #000000;
+    height: 10px;
+    width: 10px;
+    transition: 1s;
+}
+
+.colorlinea:hover {
+    transform: matrix3d(2px);
+    color: rgb(7, 223, 122);
+}
+
+.Divcolor2 {
+    position: relative;
+    top: 850px;
+}
+
+.LastContainer {
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    top: 825px;
+    height: 420px;
+}
+
+.Bajar {
+    position: relative;
+
+}
+
+h4 {
+    position: relative;
+    left: 56px;
+    top: 50px;
+}
+
+.Bajar0 {
+    position: relative;
+    top: 19px;
+    left: 300px;
+}
+
+.Bajar1 {
+    position: relative;
+    left: 90px;
+    top: 80px;
+}
+.position1{
+    position: relative;
+    top: 80px;
+    left: 120px;
+    opacity: 200%;
+    color: royalblue;
+}
+.position2{
+    position: relative;
+    top: 90px;
+    opacity: 90%;
+    color: rgb(226, 27, 193);
+    left: 140px;
+}
+.position3{
+    position: relative;
+    top: 100px;
+    left: 160px;
+    color: rgb(24, 219, 219);
+    opacity: 80%;
+}
+.Lasposition{
+    position: relative;
+    top: 140px;
+    left: 650px;
+    color: skyblue;
+}

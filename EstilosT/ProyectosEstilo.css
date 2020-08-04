@@ -1,0 +1,132 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+html {
+    background-color: rgb(255, 255, 255);
+}
+
+.TotalContainer {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    top: 120px;
+    color: rgb(255, 255, 255);
+    width: 1320px;
+    height: 1420px;
+
+}
+
+div ul li {
+    position: relative;
+    left: 40px;
+    width: 378px;
+    transition: 1s;
+    border-radius: 12px;
+
+}
+
+div ul li:hover {
+    background-color: yellowgreen;
+}
+
+.TamañoLogo {
+    position: relative;
+    height: 190px;
+    width: 550px;
+    left: 540px;
+}
+
+.Logo1 {
+    position: relative;
+    top: 120px;
+    left: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.Img1 {
+    position: relative;
+    top: 230px;
+    height: 320px;
+    left: 150px;
+    transition: 1s;
+
+
+}
+
+.Img1:hover {
+    transform: translateX(85px)
+}
+
+.Img2 {
+    position: relative;
+    top: 380px;
+    left: 150px;
+    height: 320px;
+    width: 567px;
+    transition: 1s;
+
+}
+
+.Img2:hover {
+    transform: translateX(70px);
+}
+
+.Img3 {
+    position: relative;
+    top: -490px;
+    height: 320px;
+    left: 916px;
+    transition: 1s;
+}
+
+.Img3:hover {
+    transform: translatey(30px);
+}
+
+.Img4 {
+    position: relative;
+    height: 320px;
+    top: -350px;
+    width: 485px;
+    left: 916px;
+    transition: 1s;
+}
+
+.Img4:hover {
+    transform: translateY(-20px);
+}
+
+.Posicion1 {
+    position: relative;
+    top: -120px;
+    color: black;
+    left: 150px;
+
+    font-weight: 1900px;
+}
+
+.Posicion2 {
+    position: relative;
+    top: -488px;
+    color: black;
+    left: 900px;
+    font-weight: 1900px
+}
+
+.Posicion3 {
+    position: relative;
+    top: -360px;
+    color: black;
+    left: 920px;
+    font-weight: 1900px
+}
+
+.Posicion4 {
+    position: relative;
+    top: -690px;
+    color: black;
+    left: 150px;
+    font-weight: 1900px
+}

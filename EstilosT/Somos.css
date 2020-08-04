@@ -1,0 +1,47 @@
+.right {
+    text-align: left;
+    font-size: 10px;
+    padding: 60px 300px;
+    background-image: url(Form.jpg);
+    color: rgb(247, 243, 243);
+    background-size: 100% 100%;
+}
+
+.p {
+    font-size: 20px;
+}
+
+.b {
+    font-size: 20px;
+}
+
+.p2 {
+    font-size: 20px;
+}
+
+.Mision {
+    font-size: 20px;
+}
+
+div ul li {
+    position: relative;
+    left: 120px;
+    width: 380px;
+    transition: 1s;
+    background-color:#ffff;
+
+}
+
+div ul li:hover {
+
+    color: lawngreen;
+    width: 320px;
+    height: 40px;
+}
+
+.TamañoLogo {
+    position: relative;
+    height: 190px;
+    width: 550px;
+    left: 600px;
+}
