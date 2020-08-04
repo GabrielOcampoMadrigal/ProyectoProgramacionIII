@@ -34,14 +34,14 @@ div ul li {
 
 div ul li:hover {
 
-    color: lawngreen;
+    color: lawnblack;
     width: 320px;
     height: 40px;
 }
 
 .TamañoLogo {
     position: relative;
-    height: 190px;
-    width: 550px;
-    left: 600px;
+    height: 193px;
+    width: 553px;
+    left: 603px;
 }
