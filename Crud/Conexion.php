@@ -4,4 +4,7 @@
     $Usuario="root";
     $Contraseña="";
 
+
+
+    echo "Aqui se agregara la conexion de bases de datos";
 ?>
